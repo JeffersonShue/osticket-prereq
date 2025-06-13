@@ -6,9 +6,14 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
+<h2>Download this link first </h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+<p>
+    <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD" target="_blank">
+     osTicket-Installation-Files
+    </a>
+</p>
+
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,11 +27,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Windows Azure Subscription
+- Understand how to create a resource group/ virtual machine
+- Understand how to use RDP (Remote Desktop)
+
+Please refer to <a href="https://github.com/jeffersonshue/configure-ad" target="_blank">
+Creating Virtual Machines in the Cloud
+</a>
+
 
 <h2>Installation Steps</h2>
 
